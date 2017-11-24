@@ -1,0 +1,40 @@
+<resources>
+	<string name="app_name">Tic Tac Toe</string>
+	<string name="title_gameconnector">Game Selector</string>
+	<string name="title_game">Tic Tac Toe</string>
+	<string name="btn_join_game">Join Game</string>
+	<string name="btn_host_game">Host Game</string>
+	<string name="join_game">Join Game</string>
+	<string name="host_game">Host Game</string>
+	<string name="exit">Exit</string>
+	<string name="how_to_play">How to Play</string>
+	<string name="welcome">Welcome,</string>
+	<string name="round">Round</string>
+
+	<string-array name="temp_ip_array">
+		<item>255.255.255.255</item>
+	</string-array>
+
+	<string-array name="randomNames">
+		<item>Omega</item>
+		<item>Gordon</item>
+		<item>Christina</item>
+		<item>Saul</item>
+		<item>Elmo</item>
+		<item>Daniel</item>
+		<item>Armando</item>
+		<item>Eduardo</item>
+		<item>John</item>
+		<item>Katia</item>
+		<item>Esteban</item>
+		<item>Zachariah</item>
+		<item>Tatiana</item>
+		<item>Lisabeth</item>
+		<item>Mariela</item>
+		<item>Cathie</item>
+		<item>Alton</item>
+		<item>Nilsa</item>
+		<item>Merlene</item>
+		<item>Myles</item>
+	</string-array>
+</resources>
